@@ -1,7 +1,7 @@
 # Robot-project
 ## Design for Imperfect
 
-!{1](https://github.com/actbee/Robot-project/blob/master/images/1.png?raw=true)
+![1](https://github.com/actbee/Robot-project/blob/master/images/1.png?raw=true)
 
 ### Introduction
 Since artificial technology these days is still under developed, there are many mistakes an agent will make. How to design for those imperfect agent to make them more smart 
@@ -30,11 +30,11 @@ We first present an outlook design and then do a peer testing to improve the des
 It combines the idea of active, convenience and unknown. The result of one peer testing is shown below.
 ![4](https://github.com/actbee/Robot-project/blob/master/images/4.png?raw=true)
 
-![5](https://github.com/actbee/Robot-project/blob/master/images/5.png?raw=true)
-The Denied Designs
+*The Denied Designs*
 
-![6](https://github.com/actbee/Robot-project/blob/master/images/6.jpg?raw=true)
-The Final Design
+![5](https://github.com/actbee/Robot-project/blob/master/images/5.png?raw=true)
+
+*The Final Design*
 
 The agent’s interface symbolic expression are designed by analyzing the characteristics of human behavior and expression. 
 We focus on three key factors summarized before: sociability, actively and independent.
